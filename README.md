@@ -22,6 +22,8 @@ system.
 
 ## How to Contribute
 
+Plase fork this repository and then issue
+Pull Requests for review.
 ## Copyright
 
 Git.Training
