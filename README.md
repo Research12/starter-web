@@ -2,7 +2,7 @@
 
 This is a simple website project for 
 showing how to use GIT and Gitub together.
-
+Adding a line for rebasing example.
 ## Introduction
 
 This is example is to show different parts
