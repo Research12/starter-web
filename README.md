@@ -2,8 +2,7 @@
 
 This is a simple website project for 
 showing how to use GIT and Gitub together.
-Adding a line for rebasing example, then more
-changes from myfeature branch too.
+Updating for emergency fix after stashing.
 
 ## Introduction
 
